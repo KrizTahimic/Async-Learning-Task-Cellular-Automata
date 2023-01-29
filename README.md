@@ -1,4 +1,4 @@
-### Conference Room Simulation
+## Conference Room Simulation
 
 The code tries to do a simple simulation of a room in a conference. The program is inspired and an edited version of the CMPLXSY Seating Simulation.
 
