@@ -26,7 +26,9 @@ The code tries to do a simple simulation of a room in a conference. The program 
 (Due to simulation not stopping, the developer decided to stop the loop at 100000 ticks)
 ## Insights
 
-There is a noticeable gap that Middle (M) attendees will not find the conference exceptional. In contrast, Beginner (B) and Top (T) find it easier to get a position and have an exceptional conference.
+- There is a noticeable gap that Middle (M) attendees will not find the conference exceptional. In contrast, Beginner (B) and Top (T) find it easier to get a position and have an exceptional conference.
+- Density 20 seem a good spot to set density especially for Middle (M). As density reach 40 and higher, it became harder for Middle (M) to have the exceptional spot.
+- After reaching density 80, it became also harder for Beginner (B) and Top (T) attendees to find the exceptional location for them.
 
 ## Image
 
