@@ -23,6 +23,7 @@ The code tries to do a simple simulation of a room in a conference. The program 
 | Top (T) | 0 | 0 | 0 | 2 |
 | Ticks | 15 | 100000 | 100000 | 100000 |
 
+(Due to simulation not stopping, the developer decided to stop the loop at 100000 ticks)
 ## Insights
 
 There is a noticeable gap that Middle (M) attendees will not find the conference exceptional. In contrast, Beginner (B) and Top (T) find it easier to get a position and have an exceptional conference.
