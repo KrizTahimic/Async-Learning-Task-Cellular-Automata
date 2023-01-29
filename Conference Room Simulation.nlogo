@@ -9,10 +9,7 @@ turtles-own [
 to setup
   clear-all
 
-  ; I can implement a let or set here
-  ; Implement using ifelse
-  ; Set range for using density
-  ; Also a slider
+
 
   ask patches [
     set pcolor black
